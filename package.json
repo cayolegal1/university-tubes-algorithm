@@ -1,0 +1,8 @@
+{
+  "name": "technical_test",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "version": "0.0.0"
+}
