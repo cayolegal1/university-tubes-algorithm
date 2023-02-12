@@ -4,7 +4,7 @@ const minValue = 100;
 const maxValue = 200;
 
 export const rand = () => {
-    return Math.floor(Math.random() * (maxValue - minValue + 1) + minValue)
+  return Math.floor(Math.random() * (maxValue - minValue + 1) + minValue)
 }
 
 export const setupInitialValues = (newBoxId) => {
